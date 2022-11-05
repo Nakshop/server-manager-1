@@ -1,0 +1,7 @@
+# SERVER MANAGER CODE BY Naksh.
+
+# EDIT THE CODE AS PER YOUR CHOICE.
+
+# Discord - https://discord.gg/
+
+# ENTER YOUR BOT TOKEN IN LAST LINE
